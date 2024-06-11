@@ -1,2 +1,4 @@
-package com.example.projectmanagement.exception;public class ChatException {
+package com.example.projectmanagement.exception;
+
+public class ChatException {
 }

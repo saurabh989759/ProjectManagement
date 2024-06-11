@@ -1,2 +1,4 @@
-package com.example.projectmanagement.exception;public class ErrorDetails {
+package com.example.projectmanagement.exception;
+
+public class ErrorDetails {
 }
